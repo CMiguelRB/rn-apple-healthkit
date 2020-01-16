@@ -1,12 +1,42 @@
 {
-  "name": "rn-apple-healthkit",
-  "version": "0.7.3",
-  "description": "A React Native package for interacting with Apple HealthKit",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+  "_from": "rn-apple-healthkit",
+  "_id": "rn-apple-healthkit@0.7.3",
+  "_inBundle": false,
+  "_integrity": "sha512-VfVTRleD3QhxA3DM5MQ6eSVsXgWILYb88zBjVt/vp3b3LZ2GWlfh3y9aQmfQTBtF+QpW6qWANmTr+vJdz8BD0g==",
+  "_location": "/rn-apple-healthkit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rn-apple-healthkit",
+    "name": "rn-apple-healthkit",
+    "escapedName": "rn-apple-healthkit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rn-apple-healthkit/-/rn-apple-healthkit-0.7.3.tgz",
+  "_shasum": "4007bfc735ffe276db46df87f545ba14519f8077",
+  "_spec": "rn-apple-healthkit",
+  "_where": "/Users/developer/Documents/dbs_mobile",
+  "author": {
+    "name": "Terrillo Walls"
+  },
+  "bugs": {
+    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native package for interacting with Apple HealthKit",
+  "devDependencies": {
+    "react": "16.8.3",
+    "react-native": ">=0.40.0"
+  },
+  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
   "keywords": [
     "Apple",
     "health-kit",
@@ -17,17 +47,15 @@
     "native",
     "ios"
   ],
-  "bugs": {
-    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
-  },
-  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
-  "author": "Terrillo Walls",
   "license": "MIT",
-  "devDependencies": {
-    "react": "16.8.3",
-    "react-native": ">=0.40.0"
-  },
+  "main": "index.js",
+  "name": "rn-apple-healthkit",
   "peerDependencies": {
     "react-native": ">=0.40.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+  },
+  "version": "0.7.3"
 }

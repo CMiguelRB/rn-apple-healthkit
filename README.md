@@ -80,7 +80,7 @@ Height Example Response
       * [getActiveEnergyBurned](/docs/getActiveEnergyBurned().md)
       * [getBasalEnergyBurned](/docs/getBasalEnergyBurned().md)
       * [getBiologicalSex](/docs/getBiologicalSex().md)
-      * [getBloodGlucoseSamples](/docs/getBloodGlucoseSamples().md)
+      * [getBloodGlucoseSamples](/docs/getBloodglucoseSamples().md)
       * [getBloodPressureSamples](/docs/getBloodPressureSamples().md)
       * [getBodyTemperatureSamples](/docs/getBodyTemperatureSamples().md)
       * [getDailyDistanceCyclingSamples](/docs/getDailyDistanceCyclingSamples().md)
